@@ -15,4 +15,3 @@ function nameToAttributes (drivers) {
 
 // correct upto here
 
-function attributesToPhrase (drivers)
